@@ -38,13 +38,13 @@ Tuesday and Thursday: <br>
 | 9:30-10:45am | Collier Scripps 301|
 
 ## Office Hours
-I will be [using Calendly to schedule office hours](https://calendly.com/timothy-urness/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time. <br>
+I will be [using Calendly to schedule office hours](https://calendly.com/timothy-urness/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time.<br>
 
 | **Monday** |**Tuesday** |**Wednesday**|**Thursday** |**Friday**|
 | ---------- | ---------- | ----------| ---------- | ----------| 
 | 10:00 - 11:00 | 11:00 - 12:30| 10:00 - 11:00| 11:00-12:30| by appt |
 
-You are always welcome to swing by my office at any time. If the above times don't work for you, send me an email and we can arrange a time to meet.
+You are always welcome to swing by my office at any time. There are also times available via Calendy outside of the office hours that you are welcome to schedule. If the above times don't work for you, send me an email and we can arrange a time to meet.
 
 ## Course Description:
 This course introduces approaches to developing computer programs that learn from data. Both foundational and contemporary machine learning algorithms will 

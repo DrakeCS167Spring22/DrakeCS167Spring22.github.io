@@ -1,7 +1,7 @@
 title: CS167 Machine Learning
-email: meredith.moore@drake.edu
+email: timothy.urness@drake.edu
 description: "Course materials and notes for Drake University's CS167: Machine Learning"
 baseurl: ""
-url: "https://cs167.github.io"
+url: "https://drakecs167spring22.github.io/"
 
 theme: jekyll-theme-minimal

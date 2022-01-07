@@ -9,7 +9,7 @@ permalink: /email_tips/
 You will likely need some individual help at some point in time during the semester, and this is a good thing! You are here to learn and I am here to help you. Here are a few tips to make our communication as efficient as possible this semester.
 
 ## 1. Who:
-Let's start by the **who** to send it to. [Professor Urness](mailto:timothy.urness@drake.edu)
+Let's start by the **who** to send it to. [Professor Urness -- timothy.urness@drake.edu](mailto:timothy.urness@drake.edu) . 
 Please feel free to email me *any* questions (related to the course or otherwise). You'll get the most friendly response back if your email addresses me as "Professor Urness". Emails that begin with "Hey Urness," or just "Urness:" typically make it to the back of my priority list. 
 
 ## 2. What: 
@@ -27,7 +27,7 @@ the less likely there will be time for me to answer your question before the dea
 # Examples:
 
 ## What _not_ to do:
-Here is an example of an email that is not very helpful. See if you can spot what Timmy did wrong:
+Here is an example of an email that is not very helpful. See if you can spot what this student did wrong:
 
 ![A screenshot of an email that does not meet the guidelines above](/bad_email_new.png)
 

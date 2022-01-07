@@ -27,15 +27,13 @@ permalink: /syllabus/
 
 Timothy Urness <br>
 timothy.urness@drake.edu <br>
-307 Collier-Scrips (office) <br>
+307 Collier-Scrips<br>
 
 ## Class Meeting Time and Place:
 
-Tuesday and Thursday: <br>
-
-|**Time** |**Place**|
-| ---------- | ----------| 
-| 9:30-10:45am | Collier Scripps 301|
+|**Days** |**Time** |**Place**|
+| ------------------- | ----------| ----------|  
+| Tuesdays and Thursdays | 9:30-10:45am | Collier Scripps 301|
 
 ## Office Hours
 I will be [using Calendly to schedule office hours](https://calendly.com/timothy-urness/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time.<br>

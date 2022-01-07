@@ -10,7 +10,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 ## Schedule 📆 
 
-<iframe width='90%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQIK3ICThTXzli65d9zouUjcV5Sfz-KTBl52g-wqVuiBlqoH2oPKOLldfhv4TEJJURbNEQfhNbb5oN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='90%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8M4UmH8ufZLtJMzotPGFoatHrpzHyDuGqQMagWFHuVU10FoQWVG7df1G5HvOFW5IlRK1Xk8sPthUl/pubhtml?gid=0&single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Key 🔑
 
@@ -21,5 +21,5 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 | P     | Project            | 11:59 pm     |
 
 ## FAQ ❓
-1. [How should I go about emailing you?](/email_tips/)
-2. [Who are you? What kind of research do you do?](https://merriekay.com)
+[How should I go about emailing you?](/email_tips/)
+

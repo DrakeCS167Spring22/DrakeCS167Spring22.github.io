@@ -55,7 +55,6 @@ At the end of this course, students that have taken an active part should be abl
 - apply a variety of modeling techniques to classification, regression, and unsupervised learning problems using data in different formats (such as typical structured data, text, and images). 
 - create software which utilizes machine learning programming libraries in order to conduct machine-learning-based data analysis. 
 - develop and conduct machine-learning-based data analysis experiments, and they will be able to interpret and explain the results.  
-- Feel comfortable with using two industry standard tools: Slack and GitHub
 
 ## Sources
 We will follow portions of a variety of sources in this class and so there is no required textbook. A nonexhaustive list of sources can be found [here](/resources/).
@@ -64,7 +63,7 @@ We will follow portions of a variety of sources in this class and so there is no
 The schedule for the course can be found on the course [homepage](/index.md/).
 
 ## Course Communication:
-We will be utilizing a combination of Slack, Email, and Blackboard for this course. The assignments will be posted to Blackboard and will be turned in using Blackboard. Should you have questions on an assignment, please Email me. Check out the [email tips](/email_tips/) section to see how you can ensure you'll get a helpful response back. In short, make sure that your email:
+We will be utilizing a combination of this website, Email, and Blackboard for this course. The assignments will be posted to Blackboard and will be turned in using Blackboard. Should you have questions on an assignment, please Email me. Check out the [email tips](/email_tips/) section to see how you can ensure you'll get a helpful response back. In short, make sure that your email:
 - Has a **descriptive subject**: for example **"CS167 Section 1 Notebook #4 Help"**
 - Includes a concise description of **your problem**, **the error**, **things you've tried**, **link to your Github repository**
 

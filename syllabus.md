@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "CS167 Syllabus Fall 2021"
+title: "CS167 Syllabus Spring 2022"
 permalink: /syllabus/
 ---
 
-# CS167: Fall 2021 Syllabus
+# CS167: Spring 2022 Syllabus
 
 ## Table of Contents
 - [Instructor](##Instructor)
@@ -25,29 +25,26 @@ permalink: /syllabus/
 
 ## Instructor:
 
-Meredith Moore <br>
-meredith.moore@drake.edu <br>
-325 Collier-Scrips (office) <br>
-
-### Teaching Assistant: <br>
-Brendan Algard <br>
-brendan.algard@drake.edu <br>
+Timothy Urness <br>
+timothy.urness@drake.edu <br>
+307 Collier-Scrips (office) <br>
 
 ## Class Meeting Time and Place:
 
 Tuesday and Thursday: <br>
 
-| **Section** |**Time** |**Place**|
-| ---------- | ---------- | ----------| 
-| Section 1 | 12:30-1:45pm | Collier Scripps 301|
-| Section 0 | 2:00-3:15 pm | Collier Scripps 301|
+|**Time** |**Place**|
+| ---------- | ----------| 
+| 9:30-10:45am | Collier Scripps 301|
 
 ## Office Hours
-I will be [using Calendly to schedule office hours](https://calendly.com/meredith-moore/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time. <br>
+I will be [using Calendly to schedule office hours](https://calendly.com/timothy-urness/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time. <br>
 
 | **Monday** |**Tuesday** |**Wednesday**|**Thursday** |**Friday**|
 | ---------- | ---------- | ----------| ---------- | ----------| 
-| 12:30 - 2:00 | 11:00 - 12:30| 12:30 - 2:00| 11:00-12:30| by appt |
+| 10:00 - 11:00 | 11:00 - 12:30| 10:00 - 11:00| 11:00-12:30| by appt |
+
+You are always welcome to swing by my office at any time. If the above times don't work for you, send me an email and we can arrange a time to meet.
 
 ## Course Description:
 This course introduces approaches to developing computer programs that learn from data. Both foundational and contemporary machine learning algorithms will 
@@ -69,8 +66,7 @@ We will follow portions of a variety of sources in this class and so there is no
 The schedule for the course can be found on the course [homepage](/index.md/).
 
 ## Course Communication:
-We will be utilizing a combination of Slack, Email, and Blackboard for this course. The assignments will be posted to Blackboard and will be turned in using Blackboard. Should you have questions on an assignment, please either use Slack or Email. Check out the [email tips](/email_tips/) section to see how you can ensure you'll get a helpful response back. In short, make sure that your email:
-- Is sent to **both me and the TA** if it is in regards to debugging code
+We will be utilizing a combination of Slack, Email, and Blackboard for this course. The assignments will be posted to Blackboard and will be turned in using Blackboard. Should you have questions on an assignment, please Email me. Check out the [email tips](/email_tips/) section to see how you can ensure you'll get a helpful response back. In short, make sure that your email:
 - Has a **descriptive subject**: for example **"CS167 Section 1 Notebook #4 Help"**
 - Includes a concise description of **your problem**, **the error**, **things you've tried**, **link to your Github repository**
 
@@ -126,8 +122,8 @@ the mark-up cells than for your regular notebook assignments.
 
 ### Exams:
 There are two exams which are very tentatively scheduled for:
-- Exam #1: October 7th
-- Exam #2: December 2nd
+- Exam #1: March 8th
+- Exam #2: May 5th
 
 ## Attendance
 While in-person attendance is very strongly encouraged, I will also be allowing virtual attendance. Each lecture will be recorded and uploaded to Blackboard and this website as soon as possible after class. While I will do my best to ensure the virtual experience is similar to the in-person experience, there are some elements that are difficult to replicate--group work, white board sessions, etc. Know that you may miss out on some of these experiences if you choose not to attend in person. 

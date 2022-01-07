@@ -57,7 +57,7 @@ At the end of this course, students that have taken an active part should be abl
 - develop and conduct machine-learning-based data analysis experiments, and they will be able to interpret and explain the results.  
 
 ## Sources
-We will follow portions of a variety of sources in this class and so there is no required textbook. A nonexhaustive list of sources can be found [here](/resources/).
+We will follow portions of a variety of sources in this class and so there is no required textbook. A nonexhaustive list of sources can be found [here](/sources.md/).
 
 ## Course Content:
 The schedule for the course can be found on the course [homepage](/index.md/).

@@ -32,9 +32,6 @@ I will demo this part in Day 01 and will post the recording to Blackboard. But h
 For ease of grading, I'm asking you to document this assignment using screenshots. Please take screenshots of:
 - Intro Questionnaire submitted screen
 - Your #hello-world post
-- Your interaction with a classmate on Slack
-- Your DM to me
-
 
 Please include the link to your github respository in the document that you submit.
 
